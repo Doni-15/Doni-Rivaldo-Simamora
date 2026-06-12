@@ -31,9 +31,9 @@ Currently building fundamentals in programming, Linux, and cybersecurity.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME_KAMU&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Doni-15&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doni-15&theme=github-compact&hide_border=true" />
 </p>
